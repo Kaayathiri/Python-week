@@ -11,4 +11,4 @@ while i<len(numbers):
 	if numbers[i]>highest:
 		highest=numbers[i]
 	i+=1
-print (highest)
+print ("The highest value is", highest)
